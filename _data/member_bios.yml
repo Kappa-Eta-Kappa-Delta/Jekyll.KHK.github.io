@@ -1,3 +1,13 @@
+Matthew Ye:
+  connect_uri: null
+  name: Matthew Ye
+  photo_uri: '/assets/images/members/Ye, Matthew.png'
+  status: null
+Krishnang Patra:
+  connect_uri: null
+  name: Krishnang Patra
+  photo_uri: '/assets/images/members/Patra, Krishnang.jpeg'
+  status: null
 Alex Bare:
   connect_uri: 'https://www.linkedin.com/in/alex-bare-3a30a450/'
   name: Alex Bare
@@ -566,7 +576,7 @@ Ashwath Bhupatiraju:
 Ben Klicker:
   connect_uri: null
   name: Ben Klicker
-  photo_uri: null
+  photo_uri: '/assets/images/members/Klicker, Ben.jpeg'
   status: null
 Jack Rollins:
   connect_uri: null
@@ -724,7 +734,7 @@ Vidit Agrawal:
 Daniel Sandoval:
   connect_uri: null
   name: Daniel Sandoval
-  photo_uri: null
+  photo_uri: '/assets/images/members/Sandoval, Daniel.jpg'
   status: null
 
 Nicole Kemnitz:
@@ -784,7 +794,7 @@ Rishit Malpani:
 Ryan Young:
   connect_uri: null
   name: Ryan Young
-  photo_uri: null
+  photo_uri: '/assets/images/members/Young, Ryan.jpeg'
   status: null
 
 Trinity Krohn:
@@ -814,5 +824,5 @@ William Tobin:
 Arnav Bharadia:
   connect_uri: null
   name: Arnav Bharadia
-  photo_uri: null
+  photo_uri: '/assets/images/members/Bharadia, Arnav.jpg'
   status: null
