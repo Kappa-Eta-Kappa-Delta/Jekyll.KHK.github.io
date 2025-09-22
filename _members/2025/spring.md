@@ -1,0 +1,58 @@
+---
+semester_index: 15
+members:
+- Abhimanyu Gupta
+- Vidit Agrawal
+- Rachith Anasuri
+- Arnav Bharadia
+- Tanner Birenbaum
+- Patrick Brophy
+- Sean Chang
+- Andrew Diener
+- Samuel Erickson
+- Dhruv Kerai
+- Jacob Klausner
+- Vincent Iadarola
+- Kira Israni
+- Parker Jorenby
+- Karan Kapur
+- Nicole Kemnitz
+- Ben Klicker
+- Rishit Malpani
+- Dev Mehrotra
+- Kristen Menge
+- Brendan O'Leary
+- Noah Olson
+- Kevin Park
+- Tyler Richard
+- Jack Rollins
+- Daniel Sandoval
+- Max Schwarz
+- Neel Shah
+- Neha Talluri
+- William Tobin
+- Brock Upson
+- Ryan Young
+- Daniel Zimmerman
+- Ethan Race
+- Finnegan Kuhse
+- Kshitij Srinivas Dhande
+- Raghav Jindal
+- Praneet Popuri
+- Lexi Pietenpetol
+- Matthew Ye
+- Hunter Lawry
+- Ben Stasior
+- Clara Leimkuhler
+- Kartik Nair
+- Katarina Bauer
+- Kate Deviley
+- Kellen Klein
+- Krishnang Patra
+- Liliana Bowers
+- Olivia Cerro
+- Owen Macdonald
+- Rick Lamb
+- Ryan Hahn
+- Will Huhn
+---
