@@ -32,7 +32,7 @@ members:
 - Nathan Novak
 - Neha Talluri
 - Nicole Kemnitz
-- Owen Macdonlad
+- Owen Macdonald
 - Parker Jorenby
 - Praneet Popuri
 - Rachith Anasuri

@@ -363,9 +363,9 @@ Patrick Day:
   name: Patrick Day
   photo_uri: null
   status: null
-Sam Erickson:
+Samuel Erickson:
   connect_uri: https://www.linkedin.com/in/samuel-erickson-377a351b5/
-  name: Sam Erickson
+  name: Samuel Erickson
   photo_uri: '/assets/images/members/Erickson, Samuel.jpg'
   status: Incoming Software Engineer Intern @ Relativity
 Sang Jung:
@@ -566,7 +566,7 @@ Ashwath Bhupatiraju:
 Ben Klicker:
   connect_uri: null
   name: Ben Klicker
-  photo_uri: '/assets/images/members/Klicker, Ben.jpeg'
+  photo_uri: '/assets/images/members/Klicker, Ben.jpg'
   status: null
 Jack Rollins:
   connect_uri: null
@@ -628,10 +628,10 @@ Nick Im:
   name: Nick Im
   photo_uri: null
   status: null
-Brendan O'Leary Bradford:
+Brendan O'Leary:
   connect_uri: null
   name: Brendan O'Leary Bradford
-  photo_uri: '/assets/images/members/O''Leary, Brendan.jpg'
+  photo_uri: '/assets/images/members/O\''Leary, Brendan.jpg'
   status: null
 Cameron Wiley:
   connect_uri: null
@@ -936,7 +936,7 @@ Owen Macdonald:
   photo_uri: null
   status: null
 
-Rick Lamb:
+Richard Lamb:
   connect_uri: null
   name: Rick Lamb
   photo_uri: '/assets/images/members/Lamb, Richard.jpg'
