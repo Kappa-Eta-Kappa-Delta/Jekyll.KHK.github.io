@@ -29,7 +29,7 @@ members:
 - Lindsay Dyjach
 - Michael Wong
 - Neha Talluri
-- Noah Olson
+- Scarlett Olson
 - Ryan Jackson
 - Sahastra Dev Bhadana
 - Samyak Jain

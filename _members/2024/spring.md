@@ -35,7 +35,7 @@ members:
 - Kristen Menge
 - Abhishek Mhatre
 - Brendan O'Leary
-- Noah Olson
+- Scarlett Olson
 - Arushi Renschler Pandey
 - Kevin Park
 - Tyler Richard

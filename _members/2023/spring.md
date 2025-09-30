@@ -28,7 +28,7 @@ members:
 - Naveen Balu
 - Neha Talluri
 - Nick Im
-- Noah Olson
+- Scarlett Olson
 - Parker Jorenby
 - Robert Miller
 - Ryan Jackson

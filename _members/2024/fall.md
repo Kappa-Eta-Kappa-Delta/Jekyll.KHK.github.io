@@ -22,7 +22,7 @@ members:
 - Dev Mehrotra
 - Kristen Menge
 - Brendan O'Leary
-- Noah Olson
+- Scarlett Olson
 - Kevin Park
 - Tyler Richard
 - Jack Rollins
