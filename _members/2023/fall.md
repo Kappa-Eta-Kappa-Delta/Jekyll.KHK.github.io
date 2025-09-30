@@ -27,7 +27,7 @@ members:
 - Abhishek Mhatre
 - Luke Neuendorf
 - Brendan O'Leary
-- Noah Olson
+- Scarlett Olson
 - Arushi Renschler Pandey
 - Jack Rollins
 - Ansh Pratap Singh
