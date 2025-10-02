@@ -34,6 +34,7 @@ members:
 - Nicole Kemnitz
 - Owen Macdonald
 - Parker Jorenby
+- Patrick Brophy
 - Praneet Popuri
 - Rachith Anasuri
 - Raghav Jindal
