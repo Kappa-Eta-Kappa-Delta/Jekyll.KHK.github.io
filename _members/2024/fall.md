@@ -42,4 +42,5 @@ members:
 - Lexi Pietenpetol
 - Matthew Ye
 - Hunter Lawry
+- McKenzie Kujava
 ---
