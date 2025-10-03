@@ -828,7 +828,7 @@ Matthew Ye:
 Praneet Popuri:
   connect_uri: null
   name: Praneet Popuri
-  photo_uri: '/assets/images/members/Popuri, Praneet.jpg'
+  photo_uri: null
   status: null
 
 Kshitij Srinivas Dhande:
@@ -1015,7 +1015,7 @@ Rex Tabachnick:
   photo_uri: '/assets/images/members/Tabachnick, Rex.jpg'
   status: null
 
-Sherdian Zimmerman:
+Sheridan Zimmerman:
   connect_uri: null
   name: Sheridan Zimmerman
   photo_uri: '/assets/images/members/Zimmerman, Sheridan.jpg'
