@@ -401,7 +401,7 @@ Franklin Wang:
 Parker Jorenby:
   connect_uri: null
   name: Parker Jorenby
-  photo_uri: null
+  photo_uri: '/assets/images/members/Jorenby, Parker.png'
   status: null
 Kashin Shah:
   connect_uri: null
@@ -446,7 +446,7 @@ Alex Sannikov:
 Daniel Zimmerman:
   connect_uri: null
   name: Daniel Zimmerman
-  photo_uri: null
+  photo_uri: '/assets/images/members/Zimmerman, Daniel.jpg'
   status: null
 Darryl Hayes:
   connect_uri: null
@@ -514,7 +514,7 @@ Neha Talluri:
   photo_uri: '/assets/images/members/Talluri, Neha.jpg'
   status: Computer Science Researcher @ UW Madison
 Scarlett Olson:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/scarlett-olson-583929362/' 
   name: Scarlett Olson
   photo_uri: '/assets/images/members/Olson, Scarlett.jpg'
   status: null
@@ -659,10 +659,10 @@ Luke Neuendorf:
   photo_uri: null
   status: null
 Patrick Brophy:
-  connect_uri: null
+  connect_uri: 'https://linkedin.com/in/patbrophy'
   name: Patrick Brophy
   photo_uri: '/assets/images/members/Brophy, Patrick.jpg'
-  status: null
+  status: Research Software Engineer @ Morgridge Institute for Research
 Salome Habtemichael:
   connect_uri: null
   name: Salome Habtemichael
@@ -704,10 +704,10 @@ Brock Upson:
   status: null
 
 Karan Kapur:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/karankapur5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'
   name: Karan Kapur
   photo_uri: '/assets/images/members/Kapur, Karan.jpg'
-  status: null
+  status: Computer Support Assistant @ UW-Madison Department of Electrical and Computer Engineering
 
 Rudy Banerjee:
   connect_uri: null
@@ -728,10 +728,10 @@ Daniel Sandoval:
   status: null
 
 Nicole Kemnitz:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/nicole-kemnitz-187a0024b/'
   name: Nicole Kemnitz
   photo_uri: '/assets/images/members/Kemnitz, Nicole.jpg'
-  status: null
+  status: Process Optimization Intern @ BSP
 
 Imogen Youngs:
   connect_uri: null
@@ -770,10 +770,10 @@ Neel Shah:
   status: null
 
 Rachith Anasuri:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/rachith-anasuri-369a01232'
   name: Rachith Anasuri
   photo_uri: '/assets/images/members/Anasuri, Rachith.jpg'
-  status: null
+  status: Former SWE @ Yahoo-Paranoid 
 
 Rishit Malpani:
   connect_uri: null
@@ -782,7 +782,7 @@ Rishit Malpani:
   status: null
 
 Ryan Young:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/ryoung22/'
   name: Ryan Young
   photo_uri: '/assets/images/members/Young, Ryan.jpg'
   status: null
@@ -794,10 +794,10 @@ Trinity Krohn:
   status: null
 
 Tyler Richard:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/tyler-richard-776714377/'
   name: Tyler Richard
   photo_uri: '/assets/images/members/Richard, Tyler.jpg'
-  status: null
+  status: Design Verification Intern @ Forward Edge ASIC
 
 Vincent Iadarola:
   connect_uri: null
@@ -820,7 +820,7 @@ Arnav Bharadia:
 # Spring 2024 Pledge Class
 
 Matthew Ye:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/matthew-ye-aaa8b8248/'
   name: Matthew Ye
   photo_uri: '/assets/images/members/Ye, Matthew.jpg'
   status: null
@@ -828,7 +828,7 @@ Matthew Ye:
 Praneet Popuri:
   connect_uri: null
   name: Praneet Popuri
-  photo_uri: '/assets/images/members/Popuri, Praneet.jpg'
+  photo_uri: null
   status: null
 
 Kshitij Srinivas Dhande:
@@ -844,7 +844,7 @@ Ethan Race:
   status: null
 
 Hunter Lawry:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/hunter-lawry-009482273'
   name: Hunter Lawry
   photo_uri: '/assets/images/members/Lawry, Hunter.jpg'
   status: null
@@ -867,6 +867,11 @@ Lexi Pietenpol:
   photo_uri: '/assets/images/members/Pietenpol, Lexi.jpg'
   status: null
 
+McKenzie Kujava:
+  connect_uri: null
+  name: McKenzie Kujava
+  photo_uri: '/assets/images/members/Kujava, McKenzie.jpg'
+  status: null
 
 # Fall 2024 Pledge Class
 
@@ -907,7 +912,7 @@ Kate Deviley:
   status: null
 
 Kellen Klein:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/kellen-klein-77b1bb272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'
   name: Kellen Klein
   photo_uri: '/assets/images/members/Klein, Kellen.jpg'
   status: null
@@ -937,10 +942,10 @@ Owen Macdonald:
   status: null
 
 Richard Lamb:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/richard-lamb-137698386/'
   name: Rick Lamb
   photo_uri: '/assets/images/members/Lamb, Richard.jpg'
-  status: null
+  status: Engineering Intern @ Village of Germantown
 
 Ryan Hahn:
   connect_uri: null
@@ -957,10 +962,10 @@ Will Huhn:
 # Spring 2025 Pledge Class (To be added later)
 
 Alex Conover:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/alexandra-conover-11bbb12a7'
   name: Alex Conover
   photo_uri: '/assets/images/members/Conover, Alex.jpg'
-  status: null
+  status: Marketing Intern @ Keysight Technologies
 
 Michael Cortese:
   connect_uri: null
@@ -987,10 +992,10 @@ Eva Skarabot:
   status: null
 
 Jasmy Mavilla:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/jasmymavilla000/'
   name: Jasmy Mavilla
   photo_uri: '/assets/images/members/Mavilla, Jasmy.jpg'
-  status: null
+  status: Appraisal Intern @ Douglas County Appraiser's Office
 
 John Woo:
   connect_uri: null
@@ -1010,7 +1015,7 @@ Rex Tabachnick:
   photo_uri: '/assets/images/members/Tabachnick, Rex.jpg'
   status: null
 
-Sherdian Zimmerman:
+Sheridan Zimmerman:
   connect_uri: null
   name: Sheridan Zimmerman
   photo_uri: '/assets/images/members/Zimmerman, Sheridan.jpg'
