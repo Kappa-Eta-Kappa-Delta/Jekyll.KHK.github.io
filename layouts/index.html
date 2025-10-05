@@ -1,7 +1,61 @@
-{{ define "main" }}
-  {{ if .Params.banner }}
-    {{ partial "banner.html" . }}
-  {{ end }}
+{{ define "banner" }}
+{{ partial "banner.html" . }}
+{{ end }}
 
-  {{ .Content }}
+{{ define "main" }}
+
+<!-- Main -->
+<div id="main-wrapper">
+	<div class="container">
+
+		<!-- Updates Section -->
+		<section>
+			<header class="major">
+				<h2>Updates</h2>
+			</header>
+			<div class="updates-grid">
+				{{ $posts := first 2 (where .Site.RegularPages "Section" "posts") }}
+				{{ range $posts }}
+				{{ partial "post_card.html" . }}
+				{{ end }}
+			</div>
+			<footer style="display:flex;justify-content:center;">
+				<a href="{{ " /posts/" | relURL }}" class="button big icon fa fa-newspaper-o">Read more</a>
+			</footer>
+		</section>
+
+		<!-- Member Highlights -->
+		<section class="member-highlights">
+			<header class="major">
+				<h2>Member Highlights</h2>
+			</header>
+
+			{{ $bios := .Site.Data.member_bios }}
+			{{ $ps := .Site.Params }}
+
+			<div class="leadership-grid">
+				{{ partial "member_card.html" (dict "bios" $bios "role" "President" "id" $ps.President) }}
+				{{ partial "member_card.html" (dict "bios" $bios "role" "Vice President" "id" $ps.Vice_President) }}
+				{{ partial "member_card.html" (dict "bios" $bios "role" "Pledge Trainer" "id" $ps.Pledge_Trainer) }}
+				{{ partial "member_card.html" (dict "bios" $bios "role" "House Steward" "id" $ps.House_Steward) }}
+			</div>
+
+			<div class="order-grid">
+				{{ partial "member_card.html" (dict "bios" $bios "role" "Treasurer" "id" $ps.Treasurer) }}
+				{{ partial "member_card.html" (dict "bios" $bios "role" "Publicity Chair" "id" $ps.Publicity_Chair) }}
+				{{ partial "member_card.html" (dict "bios" $bios "role" "Social Chair" "id" $ps.Social_Chair) }}
+				{{ partial "member_card.html" (dict "bios" $bios "role" "Secretary" "id" $ps.Secretary) }}
+			</div>
+
+			<footer style="display:flex;justify-content:center;">
+				<a href="{{ " /members/" | relURL }}" class="button big icon fa fa-users">View all members</a>
+			</footer>
+		</section>
+
+	</div>
+</div>
+
+<!-- Footer -->
+{{ partial "footer.html" . }}
+
 {{ end }}
