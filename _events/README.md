@@ -1,1 +1,0 @@
-../events/README.md

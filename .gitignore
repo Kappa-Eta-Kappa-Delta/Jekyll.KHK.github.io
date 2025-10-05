@@ -1,10 +1,5 @@
-_site
-vendor
 
-.sass-cache
-.jekyll-metadata
-.bundle
-.jekyll-cache
-.ruby-version
-
-**.DS_Store
+# Hugo
+public/
+resources/
+.hugo_build.lock

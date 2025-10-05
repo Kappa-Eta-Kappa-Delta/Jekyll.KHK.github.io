@@ -1,1 +1,0 @@
-../posts/README.md
