@@ -27,8 +27,6 @@
 </head>
 
 <body class="homepage">
-	{{ debug.Dump .Params }}
-
 	<div id="header-wrapper">
 		<div id="header">
 			<h1><a href="/">{{ .Site.Title }}</a></h1>
@@ -44,7 +42,7 @@
 		</div>
 	</div>
 
-	<div id="footer-wrapper" class="container footer-grid ">
+	<div id="footer-wrapper" class="container footer-grid no-events">
 		{{ partial "footer.html" . }}
 	</div>
 </body>
