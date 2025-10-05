@@ -15,10 +15,6 @@ Pledge_Trainer = "Hunter Lawry"
 House_Steward = "Tanner Birenbaum"
 Social_Chair = "Karan Kapur"
 
-[taxonomies]
-tag = "tags"
-category = "categories"
-
 [permalinks]
 posts = "/posts/:year-:month-:day-:title/"
 
