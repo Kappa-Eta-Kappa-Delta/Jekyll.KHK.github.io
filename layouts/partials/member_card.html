@@ -1,0 +1,17 @@
+{{/* Debug: .id: {{ .id }} */}}
+{{/* Debug: Member data: {{ index .Site.Data.member_bios (.id) }} */}}
+{{ $member := index .bios .id }}
+
+{{ if $member }}
+<section class="box member-box {{ $member.role | default "" | replace " " " -" }}">
+	{{ $photo := $member.photo_uri | default "/assets/images/profile-photo-placeholder.jpg" }}
+	<span class="image full" style="background-image:url('{{ $photo }}')"></span>
+	<h3>{{ $member.name }}</h3>
+	<p>{{ $member.role | default $member.status }}</p>
+	{{ partial "connect_button.html" (dict "connect_uri" $member.connect_uri) }}
+</section>
+{{ else }}
+<section class="box">
+	<strong style="color:red;">Error:</strong> Member bio missing for {{ .id }}
+</section>
+{{ end }}

@@ -1,0 +1,7 @@
+{{ define "main" }}
+  {{ if .Params.banner }}
+    {{ partial "banner.html" . }}
+  {{ end }}
+
+  {{ .Content }}
+{{ end }}
