@@ -39,7 +39,7 @@ members:
 - Kshitij Srinivas Dhande
 - Raghav Jindal
 - Praneet Popuri
-- Lexi Pietenpetol
+- Lexi Pietenpol
 - Matthew Ye
 - Hunter Lawry
 - McKenzie Kujava
