@@ -2,6 +2,7 @@
 title: Spring Semester Recap!
 featured: /assets/images/posts/spring2024/image2.jpg
 author: Jack Rollins
+date: 2024-10-10
 ---
 
 ### Welcome back to all the members for the Fall 2024 semester! 

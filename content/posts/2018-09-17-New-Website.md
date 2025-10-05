@@ -2,6 +2,7 @@
 title: New Site
 featured: /assets/images/posts/new_site.png
 author: Joseph Dailey
+date: 2018-09-17
 ---
 
 We're happy to announce a brand new website!

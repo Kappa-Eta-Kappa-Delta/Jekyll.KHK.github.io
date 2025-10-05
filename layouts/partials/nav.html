@@ -1,19 +1,18 @@
-{{ $current := . }}
+{{ define "renderMenu" }}
+<ul>
+  {{ $currentPage := .currentPage }}
+  {{ range .menu }}
+    <li class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}current{{ end }}">
+      <a href="{{ .URL }}">{{ .Name }}</a>
+      {{ if .HasChildren }}
+        {{ template "renderMenu" (dict "currentPage" $currentPage "menu" .Children) }}
+      {{ end }}
+    </li>
+  {{ end }}
+</ul>
+{{ end }}
+
 <nav id="nav">
-	<ul>
-		{{ range .Site.Menus.main }}
-		<li class="{{ if eq $current.RelPermalink .URL }}current{{ end }}">
-			<a href="{{ .URL }}">{{ .Name }}</a>
-			{{ if .HasChildren }}
-			<ul>
-				{{ range .Children }}
-				<li>
-					<a href="{{ .URL }}">{{ .Name }}</a>
-				</li>
-				{{ end }}
-			</ul>
-			{{ end }}
-		</li>
-		{{ end }}
-	</ul>
+	{{ $currentPage := . }}
+	{{ template "renderMenu" (dict "currentPage" $currentPage "menu" .Site.Menus.main) }}
 </nav>

@@ -1,16 +1,12 @@
 {{ define "main" }}
-<div id="main-wrapper">
-	<div class="container">
-		<div class="row">
-			<div class="12u">
-				<section>
-					<header class="major">
-						<h2>{{ .Title }}</h2>
-					</header>
-					{{ .Content }}
-				</section>
-			</div>
-		</div>
+<div class="row default-single">
+	<div class="12u">
+		<section>
+			<header class="major">
+				<h2>{{ .Title }}</h2>
+			</header>
+			{{ .Content }}
+		</section>
 	</div>
 </div>
 {{ end }}

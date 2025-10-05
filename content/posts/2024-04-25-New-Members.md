@@ -2,6 +2,7 @@
 title: Welcome New Actives for Spring 2024!
 featured: /assets/images/posts/spring2024/new_members.jpg
 author: Ben K
+date: 2024-04-25
 ---
 ### We are thrilled to announce that KHK has welcomed 10 outstanding new active members for the Spring 2024 semester! 
 
