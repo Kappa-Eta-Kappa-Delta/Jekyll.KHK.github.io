@@ -639,10 +639,10 @@ Cameron Wiley:
   photo_uri: null
   status: null
 Dhruv Kerai:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/nachiket-kerai-b031431b3/'
   name: Dhruv Kerai
   photo_uri: '/assets/images/members/Kerai, Dhruv.jpg'
-  status: null
+  status: Software Engineering Intern @ Cribl
 George Vajagich:
   connect_uri: null
   name: George Vajagich
@@ -826,10 +826,10 @@ Matthew Ye:
   status: null
 
 Praneet Popuri:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/praneet-popuri-6892081a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'
   name: Praneet Popuri
   photo_uri: '/assets/images/members/Popuri, Praneet.jpg'
-  status: null
+  status: Research @ Bick Lab
 
 Kshitij Srinivas Dhande:
   connect_uri: null
@@ -954,10 +954,10 @@ Ryan Hahn:
   status: null
 
 Will Huhn:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/william-huhn-261228288/'
   name: Will Huhn
   photo_uri: null
-  status: null
+  status: House Fellow (RA) @ UW Madison
 
 # Spring 2025 Pledge Class (To be added later)
 
@@ -980,13 +980,13 @@ James Crowe:
   status: null
 
 James Der:
-  connect_uri: null
+  connect_uri: 'http://linkedin.com/in/james-der-07a74126b'
   name: James Der
   photo_uri: 
-  status: null
+  status: Graphic Designer and Videographer @ Wisconsin Football
 
 Eva Skarabot:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/eva-skarabot/'
   name: Eva Skarabot
   photo_uri: '/assets/images/members/Skarabot, Eva.jpg'
   status: null
