@@ -578,11 +578,6 @@ Matthew Jon Hernandez:
   name: Matthew Jon Hernandez
   photo_uri: null
   status: null
-Matthew Jon Hernandez:
-  connect_uri: null
-  name: Matthew Jon Hernandez
-  photo_uri: null
-  status: null
 Sydney Bobolz:
   connect_uri: null
   name: Sydney Bobolz
@@ -631,7 +626,7 @@ Nick Im:
 Brendan O'Leary:
   connect_uri: null
   name: Brendan O'Leary Bradford
-  photo_uri: '/assets/images/members/O\''Leary, Brendan.jpg'
+  photo_uri: '/assets/images/members/O''Leary, Brendan.jpg'
   status: null
 Cameron Wiley:
   connect_uri: null
@@ -1037,4 +1032,61 @@ Angelina Chou:
   connect_uri: null
   name: Angelina Chou
   photo_uri: '/assets/images/members/Chou, Angelina.jpg'
+  status: null
+
+
+# Fall 2025 Pledge Class
+
+Daniel Kazanov:
+  connect_uri: null
+  name: Daniel Kazanov
+  photo_uri: null
+  status: null
+
+Isabella Lisle:
+  connect_uri: null
+  name: Isabella Lisle
+  photo_uri: null
+  status: null
+
+James DeSilver:
+  connect_uri: null
+  name: James DeSilver
+  photo_uri: null
+  status: null
+
+Katie Leitz:
+  connect_uri: null
+  name: Katie Leitz
+  photo_uri: null
+  status: null
+
+Kevin Tseng:
+  connect_uri: null
+  name: Kevin Tseng
+  photo_uri: null
+  status: null
+
+Kevin Zhang:
+  connect_uri: null
+  name: Kevin Zhang
+  photo_uri: null
+  status: null
+
+Logan Conover:
+  connect_uri: null
+  name: Logan Conover
+  photo_uri: null
+  status: null
+
+Luke Jordan:
+  connect_uri: null
+  name: Luke Jordan
+  photo_uri: null
+  status: null
+
+Steve Lin:
+  connect_uri: null
+  name: Steve Lin
+  photo_uri: null
   status: null
