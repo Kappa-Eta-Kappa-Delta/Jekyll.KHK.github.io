@@ -3,7 +3,7 @@ semester_index: 17
 members:
 - Alex Conover
 - Ben Stasior
-- Brendan O'Leary Bradford
+- Brendan O'Leary
 - Brock Upson
 - Daniel Kazanov
 - Daniel Sandoval
