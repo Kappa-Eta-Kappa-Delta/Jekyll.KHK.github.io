@@ -1,0 +1,52 @@
+---
+semester_index: 17
+members:
+- Alex Conover
+- Ben Stasior
+- Brendan O'Leary Bradford
+- Brock Upson
+- Daniel Kazanov
+- Daniel Sandoval
+- Eva Skarabot
+- Finnegan Kuhse
+- Isabella Lisle
+- James Der
+- James DeSilver 
+- Jasmy Mavilla
+- John Woo
+- Karan Kapur
+- Katarina Bauer
+- Kate Deviley
+- Katie Leitz
+- Kevin Park
+- Kevin Tseng
+- Kevin Zhang
+- Kshitij Srinivas Dhande
+- Krishnang Patra
+- Lexi Pietenpol
+- Logan Conover
+- Luke Jordan
+- Matthew Ye
+- Max Schwarz
+- Michael Cortese
+- Nathan Novak
+- Neha Talluri
+- Owen Macdonald
+- Olivia Cerro
+- Parker Jorenby
+- Praneet Popuri
+- Rachith Anasuri
+- Raghav Jindal
+- Richard Lamb
+- Rishit Malpani
+- Ryan Hahn
+- Ryan Young
+- Scarlett Olson
+- Sean Chang
+- Sheridan Zimmerman
+- Steve Lin
+- Tanner Birenbaum
+- Tyler Richard
+- Will Huhn
+- Zoe Gureno
+---
