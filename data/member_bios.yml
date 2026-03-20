@@ -1050,10 +1050,10 @@ Isabella Lisle:
   status: null
 
 James DeSilver:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/james-desilver-604381303'
   name: James DeSilver
-  photo_uri: null
-  status: null
+  photo_uri: '/assets/images/members/Desilver, James.jpeg'
+  status: 'Researcher @ Kaufman Lab'
 
 Katie Leitz:
   connect_uri: 'https://www.linkedin.com/in/catherine-leitz-098906383'
