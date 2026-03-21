@@ -990,7 +990,7 @@ Jasmy Mavilla:
   connect_uri: 'https://www.linkedin.com/in/jasmymavilla000/'
   name: Jasmy Mavilla
   photo_uri: '/assets/images/members/Mavilla, Jasmy.jpg'
-  status: Appraisal Intern @ Douglas County Appraiser's Office
+  status: IT Support @ UW School of Medicine & Public Health (UWSMPH)
 
 John Woo:
   connect_uri: null
@@ -1062,16 +1062,16 @@ Katie Leitz:
   status: Pharmacy Technician @ CVS Pharmacy
 
 Kevin Tseng:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/kevinbtseng'
   name: Kevin Tseng
-  photo_uri: null
-  status: null
+  photo_uri: '/assets/images/members/Tseng, Kevin.jpeg'
+  status: CS & DS @ UW Madison
 
 Kevin Zhang:
-  connect_uri: null
+  connect_uri: 'https://www.linkedin.com/in/kevin-zhang-929229369'
   name: Kevin Zhang
-  photo_uri: null
-  status: null
+  photo_uri: '/assets/images/members/Zhang, Kevin.jpeg'
+  status: CS & DS @ UW Madison
 
 Logan Conover:
   connect_uri: null
@@ -1080,10 +1080,10 @@ Logan Conover:
   status: null
 
 Luke Jordan:
-  connect_uri: null
+  connect_uri: 'http://linkedin.com/in/luke-jordan-28b8b2280'
   name: Luke Jordan
-  photo_uri: null
-  status: null
+  photo_uri: '/assets/images/members/Jordan, Luke.jpg'
+  status: Inventor & Electrical Engineering @ UW Madison
 
 Steve Lin:
   connect_uri: null
