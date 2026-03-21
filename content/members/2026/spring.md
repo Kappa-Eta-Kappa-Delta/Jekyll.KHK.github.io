@@ -46,7 +46,6 @@ members:
 - Sheridan Zimmerman
 - Steve Lin
 - Tanner Birenbaum
-- Tyler Richard
 - Will Huhn
 - Zoe Gureno
 ---
