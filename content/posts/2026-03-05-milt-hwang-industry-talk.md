@@ -3,6 +3,7 @@ title = "Industry Talk with Milt Hwang, Strategic Marketing Consultant @ Mission
 date = 2026-03-05
 author = "Ryan Young"
 image = "assets/img/Industry_Talk_S26.jpeg"
+draft = true
 +++
 
 This is where we'll be sharing updates on everything the chapter has been up to — professional events, socials, service projects, and everything in between.
