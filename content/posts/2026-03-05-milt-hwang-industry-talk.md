@@ -3,15 +3,9 @@ title = "Industry Talk with Milt Hwang, Strategic Marketing Consultant @ Mission
 date = 2026-03-05
 author = "Ryan Young"
 image = "assets/img/Industry_Talk_S26.jpeg"
-
-# TEMP (Temp branch): News deactivated, individual post hidden. Remove this block to restore.
-# [build]
-#  render = false
-#  list = false
 +++
 
-This is where we'll be sharing updates on everything the chapter has been up to — professional events, socials, service projects, and everything in between.
+Thank you to Milt Hwang for hosting one of our Industry Talks!
+From his years leading innovation at GE Healthcare to returning to campus as a marketing professor, he gave us an inside look at how industry engineering translates directly into academic research. We also had a great discussion on the evolving role of AI in today’s classrooms and what it really means to bridge the gap between technical coursework and real-world health tech solutions.
 
-Adding a new post is easy: drop a photo into `assets/img/postImgs/`, copy `content/posts/_template.md` into a new file filled out with your title, date, author, and story. Full instructions live in `content/posts/README.md`.
-
-Check back often for the latest from Kappa Eta Kappa, Delta Chapter!
+Always inspiring to see how far Badger alumni go, and how much they bring back to current students.
